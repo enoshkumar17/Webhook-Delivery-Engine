@@ -1,5 +1,5 @@
 {
-  "name": "smart-retry-queue",
+  "name": "webhook-delivery-engine",
   "version": "1.0.0",
   "private": true,
   "description": "Persistent webhook retry queue built without a job-queue library",

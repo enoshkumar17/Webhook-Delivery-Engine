@@ -10,7 +10,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 // Root route
 app.get('/api', (_req, res) => {
   res.json({
-    message: 'Smart Retry Queue API is running 🚀'
+    message: 'Webhook Delivery Engine API is running 🚀'
   });
 });
 
